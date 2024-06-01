@@ -26,3 +26,24 @@ The fundamental proposal for the ultimate goal of cybersecurity in this book is:
 "Reduce the probability of material impact due to a cyber event over the next three years."
 
 # Chapter 2: Strategies
+
+- Tactics without strategy mean you have no clear purpose as to what you're doing.
+- Strategy without tactics mean you have no idea how to achieve the goals you've set.
+
+Prior to 2010, the most common security architecture was something known as perimeter defense. The virtual fence kept everyone out, but once someone got into the fence they had access to everything.
+The new system of security is known as zero-trust. This means that, by default, there is no permissions given to the user unless they can authenticate themselves into a higher position. It's a passive strategy that implements many small decisions. To deploy prevention tools however, you require intrusion kill chain prevention.
+
+- Defenders need to get it right a majority of the time. Attackers only need to get it right once.
+- The intrusion kill chain is an active strategy for defense.
+- MTTF = Mean Time to Failure
+- Large vendors have created a huge resillience in their system networks.
+
+Risk forecasting involves 'good enough answers' as well as a lot of forecasting.
+- Automation can be key to having a highly secure system.
+
+- The following will be touched on more in later areas of the notes:
+- Zero Trust Model
+- Intrusion Kill Chain Prevention
+- Resillience
+- Risk Forecasting
+- Automation
