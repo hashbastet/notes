@@ -5,7 +5,7 @@ The idea of first principles was introduced by Aristotle in his works. Descartes
 - To solve a complex problem, it must be reduced to it's simplest form.
 - First principles in a designated problem space are extremely elementary.
 - So, what are cybersecurity's first principles?
-   
+   <br>
 - Defense in Depth is a common cybersecurity model first described by Dr. Fred Cohen.
 - Tools that are added to the _security stack_ are intrusion detection, antivirus and that sort of thing.
 - If one line fails, the next would take over. This is the fundamental principle of Defense in Depth.
